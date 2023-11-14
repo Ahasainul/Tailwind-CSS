@@ -1,0 +1,10 @@
+.nav::before{
+    color:rgba(107, 99, 197, 0.7);
+    position: fixed;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    color: white
+    right: ;
+    
+}
